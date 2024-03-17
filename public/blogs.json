@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "blog_cover_photo": "https://i.ibb.co/MnndR3R/pexels-pixabay-262508.jpg",
+      "title": "Exploring the Universe: A Journey through Space and Time",
+      "posted_date": "2024-03-16",
+      "reading_time": 10,
+      "hashTag": ["space", "universe", "exploration"],
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co/s2LfCmf/pexels-alina-levkovich-16450166.jpg"
+    },
+    {
+      "id": "2",
+      "blog_cover_photo": "https://i.ibb.co/vx71W4t/pexels-karolina-grabowska-5632366.jpg",
+      "title": "The Art of Cooking: Mastering Culinary Delights",
+      "posted_date": "2024-03-15",
+      "reading_time": 8,
+      "hashTag": ["cooking", "food", "recipes"],
+      "author_name": "Jane Smith",
+      "author_img": "https://i.ibb.co/YQcv0Bv/pexels-vika-glitter-1648377.jpg"
+    },
+    {
+      "id": "3",
+      "blog_cover_photo": "https://i.ibb.co/hMPBWBk/pexels-danny-meneses-943096.jpg",
+      "title": "The Power of Meditation: Finding Peace Within",
+      "posted_date": "2024-03-14",
+      "reading_time": 5,
+      "hashTag": ["meditation", "mindfulness", "wellness"],
+      "author_name": "Michael Johnson",
+      "author_img": "https://i.ibb.co/KqTgwhQ/pexels-tatiana-syrikova-3933025.jpg"
+    },
+    {
+      "id": "4",
+      "blog_cover_photo": "https://i.ibb.co/NY6gLb6/pexels-pixabay-533424.jpg",
+      "title": "Unlocking Creativity: The Path to Innovation",
+      "posted_date": "2024-03-13",
+      "reading_time": 7,
+      "hashTag": ["creativity", "innovation", "inspiration"],
+      "author_name": "Emily Brown",
+      "author_img": "https://i.ibb.co/z5fXzXD/pexels-nghia-pm-2048716.jpg"
+    },
+    {
+      "id": "5",
+      "blog_cover_photo": "https://i.ibb.co/3mpv0QB/pexels-pixabay-358627.jpg",
+      "title": "The Wonders of Nature: Exploring Earth's Beauty",
+      "posted_date": "2024-03-12",
+      "reading_time": 6,
+      "hashTag": ["nature", "environment", "exploration"],
+      "author_name": "Daniel Wilson",
+      "author_img": "https://i.ibb.co/2Y413nt/pexels-pixabay-161709.jpg"
+    }
+  ]
